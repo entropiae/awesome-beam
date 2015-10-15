@@ -1,0 +1,12 @@
+# MyAwesomeElixir
+- [Links](#links)
+- [Tutorial](#tutorial)
+
+## Links
+* [Awesome Elixir](https://github.com/h4cc/awesome-elixir)
+
+## Testing
+* [José Valim - Mocks and explicit contracts](http://blog.plataformatec.com.br/2015/10/mocks-and-explicit-contracts/)
+
+## Tutorial
+* [Write and publish your first Elixir library](http://eftimov.net/writing-elixir-library/)
