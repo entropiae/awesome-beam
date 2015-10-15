@@ -1,5 +1,6 @@
 # MyAwesomeElixir
 - [Links](#links)
+- [Testing](#testing)
 - [Tutorial](#tutorial)
 
 ## Links
