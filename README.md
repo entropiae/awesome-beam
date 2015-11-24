@@ -11,3 +11,4 @@
 
 ## Tutorial
 * [Write and publish your first Elixir library](http://eftimov.net/writing-elixir-library/)
+* [Managing processes with Poolboy in Elixir](http://hashnuke.com/2013/10/03/managing-processes-with-poolboy-in-elixir.html)
