@@ -1,4 +1,4 @@
-# MyAwesomeElixir
+# Awesome BEAM
 - [Links](#links)
 - [Testing](#testing)
 - [Tutorial](#tutorial)
